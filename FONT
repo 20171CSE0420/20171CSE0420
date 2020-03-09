@@ -1,0 +1,33 @@
+<html>
+<title>font properties</title>
+<style type="text/css">
+p.big{font-size:3em;
+      font-style:italic;
+      font-family:sans-serif ,"helvetica neue";
+      font-stretch:ultra-expanded;}
+
+
+p.small{font"10pt bold 'courier new';}
+h2{font-family:'ties new roman';
+   font-size:24pt;
+   font-weight:bold}
+  
+h3{font-family:'courier new';
+   font-size:18pt}
+  
+
+</style>
+</head>
+<body>
+<h2>CSE7</h1>
+<p class=small>
+THIS IS YAMINI....
+</p>
+<h3>6SEM</h3>
+<p class=big>
+20171CSE0420....</P>
+
+<h1>PRESIDENCY UNIVERSITY</h1>
+<h4>BANGLORE</h4>
+<h5>KARNATAKA</h5>
+</body>

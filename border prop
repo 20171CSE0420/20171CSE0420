@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>border prop</title>
+</head>
+<body>
+<style>
+
+p.dashed{border-style:dashed;border-color:blue}
+p.solid{border-style:solid;border-color:yellow}
+p.dotted{border-style:dotted;border-color:green}
+p.double{border-style:double;border-color:red}
+p.groove{border-style:groove;border-color:purple}
+p.inset{border-style:inset;border-color:orange}
+p.rigde{border-style:ridge;border-style:pink}
+p.mix{border-style:mix;border-color:grey}
+</style>
+<p class="dashed">presidency University</p>
+<p class="solid">karnataka</p>
+<p class="dotted">management</p>
+<p class="double">MBA</p>
+<p class="mix">school of engineering</p>
+<p class="inset">CSE</p>
+<p class="solid">ECE</p>
+<p class="GROOVE;">EEE</p>
+<p class="inset">MECH</p>
+<p style="rigid">CIVIL</p>
+<body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+
+p.center {
+text-align: center;
+color:red;
+}
+
+p.large { front_size:300%;}
+</style>
+</head>
+
+<body>
+<p  class="center">presidency university.</p>
+<p  class="large"> SOE</p>
+
+<p  class="center large"> rajankunte</p>
+</body>
+</html> 

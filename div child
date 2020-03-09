@@ -1,0 +1,25 @@
+<html>
+<head>
+<title> CSS child selector</title>
+<style>  
+
+div > p {color:blue ;background-color:pink;padding:2px;}
+
+</style>
+</head>
+<body style ="text-align:center;"> 
+<div>
+
+<div>
+<h2 style ="color:green;">
+ css child seletor
+</h2>
+
+<p> acomputer science portal</p>
+</div>
+
+<P>welcome to presidency university</P>
+<P> no styled</P>
+
+</body>
+</html>

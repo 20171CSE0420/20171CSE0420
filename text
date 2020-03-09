@@ -1,0 +1,11 @@
+<HTML>
+<title> text properties</title>
+<style type=text/css">
+<h1 color:black;
+ direction:rtl;
+ text-transform:lowercase;
+text-align:center;
+text-decoration:line-through;
+text-shadow:4px 4px 8px red;>
+yaminireddy</h1>
+,
